@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Computer Science Engineering student . I thrive in the challenging world of competitive programming, particularly in data structures and algorithms. My technical toolkit includes proficiency in languages such as C, C++, Java, HTML, CSS, and Python. As an AI and ML enthusiast, I am committed to staying at the forefront of these transformative technologies. My goal is to leverage my skills to contribute to projects that push the boundaries of what’s possible from India<br>
+A passionate Computer Science Engineering student . I thrive in the challenging world of competitive programming, particularly in data structures and algorithms. My technical toolkit includes proficiency in languages such as C, C++, Java, HTML, CSS, and Python. As an AI and ML enthusiast, I am committed to staying at the forefront of these transformative technologies. My goal is to leverage my skills to contribute to projects that push the boundaries of what’s possible.<br>
 
 
 ## 🌐 Socials:
