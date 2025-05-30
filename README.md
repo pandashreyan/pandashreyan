@@ -11,7 +11,7 @@
 
 🎓 Final-year Computer Science student at **KIIT University**  
 💡 Passionate about **AI/ML**, **full-stack development**, and **data-driven solutions**  
-🧠 Always curious to explore and implement new tech  
+🧠 Curious to explore and implement cutting-edge technologies  
 🌍 Open-source contributor and lifelong learner  
 
 ---
@@ -36,24 +36,33 @@
 ## 🔧 Featured Projects
 
 ✨ **[Keploy](https://github.com/pandashreyan/keploy)**  
-A testing agent generation project to simplify and enhance software testing workflows.  
+A testing agent generation project that simplifies and enhances software testing workflows.  
 
 📣 **[Notifyzzz](https://github.com/pandashreyan/notifyzzz)**  
-An advanced notification system built with scalability and user experience in mind.  
+A scalable notification system designed for optimal user experience.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
-![Snake animation](https://github.com/pandashreyan/pandashreyan/blob/output/github-contribution-grid-snake.svg)
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://github.com/pandashreyan/pandashreyan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+---
 
 ## 🤝 Connect with Me
 
@@ -61,18 +70,18 @@ An advanced notification system built with scalability and user experience in mi
 - 💼 LinkedIn: [Shreyan Panda](https://www.linkedin.com/in/shreyan-panda/)  
 - 📱 Phone: +1 234 567 8901  
 
-💬 *Fun Fact: I love exploring emerging tech and experimenting with coding concepts!*
+💬 *Fun Fact: I love exploring emerging tech and experimenting with new coding concepts!*
 
 ---
 
 ## 🌈 Additional Insights
 
-✨ Actively collaborating on projects and contributing to open source  
+✨ Collaborating on exciting projects and contributing to open source  
 🚀 Committed to continuous learning and impactful development  
-🧩 Believer in the power of code to drive real-world change  
+🧩 Believer in the power of code to transform the world  
 
 ---
 
 <p align="center">
-  Thanks for visiting my GitHub! 🌟 Let's connect and build something amazing together! 🚀
+  🙏 Thanks for visiting my GitHub! Let’s connect and build something amazing together! 🚀
 </p>
