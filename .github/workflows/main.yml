@@ -5,13 +5,15 @@ on:
     - cron: "0 */12 * * *"  # Every 12 hours
   workflow_dispatch:
 
+permissions:
+  contents: write  # ✅ Important: allows pushing to branches
+
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
 
     steps:
-      # Snake Animation
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
