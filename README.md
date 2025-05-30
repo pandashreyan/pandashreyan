@@ -53,6 +53,7 @@ An advanced notification system built with scalability and user experience in mi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+![Snake animation](https://github.com/pandashreyan/pandashreyan/blob/output/github-contribution-grid-snake.svg)
 
 ## 🤝 Connect with Me
 
