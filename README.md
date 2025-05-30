@@ -76,3 +76,4 @@ An advanced notification system built with scalability and user experience in mi
 <p align="center">
   Thanks for visiting my GitHub! 🌟 Let's connect and build something amazing together! 🚀
 </p>
+![Snake animation](https://github.com/pandashreyan/pandashreyan/blob/output/github-contribution-grid-snake.svg)
