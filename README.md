@@ -1,50 +1,77 @@
-## Hi there! 👋
+<h1 align="center">Hi there! 👋 I'm Shreyan Panda</h1>
+<h3 align="center">🚀 Final-Year CSE Student | Full-Stack Developer | AI/ML Enthusiast | Data Explorer</h3>
 
-### Welcome to Phoenix's GitHub Profile 🚀
-
-I am Shreyan Panda, a final-year Computer Science student at KIIT University, passionate about AI/ML, full-stack development, and data analysis to solve real-world problems. Let's dive into my GitHub journey!
-
----
-
-## 🌟 GitHub Stats
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=pandashreyan)](https://github.com/pandashreyan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandashreyan)](https://github.com/pandashreyan)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=pandashreyan)](https://github.com/pandashreyan)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pandashreyan)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Solving+Real-World+Problems+with+Code!;Passionate+about+AI%2C+ML+%26+Web+Dev;Let's+Build+Something+Amazing+Together!&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🚀 Summary
+## 🌟 About Me
 
-As a CSE student, I am passionate about software development and have engaged in various projects. With 56 commits spread across 18 repositories, I delve into automation testing, notifications systems, and machine learning. Proficient in languages like Go, TypeScript, JavaScript, CSS, and HTML, my focus is on front-end development and creating efficient solutions.
-
----
-
-## 🔧 Projects Showcase
-
-### [keploy](https://github.com/pandashreyan/keploy)
-A testing agent generation project aimed at simplifying testing processes. This repository reflects my commitment to enhancing efficiency and software quality.
-
-### [notifyzzz](https://github.com/pandashreyan/notifyzzz)
-Dedicated to notification systems, this project demonstrates my interest in creating user-friendly solutions that cater to real-world needs.
+🎓 Final-year Computer Science student at **KIIT University**  
+💡 Passionate about **AI/ML**, **full-stack development**, and **data-driven solutions**  
+🧠 Always curious to explore and implement new tech  
+🌍 Open-source contributor and lifelong learner  
 
 ---
 
-## ➡️ Get in Touch
+## 📈 GitHub Stats
 
-📫 Email: [shreyan@example.com](mailto:shreyan@example.com) </br>
-🌐 LinkedIn: [Shreyan Panda](https://www.linkedin.com/in/shreyan-panda/) </br>
-📱 Contact: +1 234 567 8901 </br>
-✨ Fun Fact: I love exploring new technologies and experimenting with coding concepts!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pandashreyan&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandashreyan&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pandashreyan&theme=dracula&no-frame=true&margin-w=15&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pandashreyan&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🔧 Featured Projects
+
+✨ **[Keploy](https://github.com/pandashreyan/keploy)**  
+A testing agent generation project to simplify and enhance software testing workflows.  
+
+📣 **[Notifyzzz](https://github.com/pandashreyan/notifyzzz)**  
+An advanced notification system built with scalability and user experience in mind.  
+
+---
+
+## 🛠️ Tech Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🤝 Connect with Me
+
+- 📧 Email: [shreyan@example.com](mailto:shreyan@example.com)  
+- 💼 LinkedIn: [Shreyan Panda](https://www.linkedin.com/in/shreyan-panda/)  
+- 📱 Phone: +1 234 567 8901  
+
+💬 *Fun Fact: I love exploring emerging tech and experimenting with coding concepts!*
 
 ---
 
 ## 🌈 Additional Insights
 
-With a growing presence in the developer community, I strive to learn and contribute actively. In collaboration with peers and open-source projects, I work towards creating impactful and innovative solutions. My GitHub journey reflects a dedication to software development and a focus on continuous improvement.
+✨ Actively collaborating on projects and contributing to open source  
+🚀 Committed to continuous learning and impactful development  
+🧩 Believer in the power of code to drive real-world change  
 
 ---
 
-Thank you for exploring my GitHub profile! 🎉 Let's connect and build exciting projects together! 🚀
-
+<p align="center">
+  Thanks for visiting my GitHub! 🌟 Let's connect and build something amazing together! 🚀
+</p>
