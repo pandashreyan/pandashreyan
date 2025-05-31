@@ -63,9 +63,8 @@ A scalable notification system designed for optimal user experience.
 
 ## 🤝 Connect with Me
 
-- 📧 Email: [shreyan@example.com](mailto:shreyan@example.com)  
-- 💼 LinkedIn: [Shreyan Panda](https://www.linkedin.com/in/shreyan-panda/)  
-- 📱 Phone: +1 234 567 8901  
+- 📧 Email: [pandashreyan7@gmail.com.com](mailto:pandashreyan7@gmail.com.com)  
+- 💼 LinkedIn: [Shreyan Panda](https://www.linkedin.com/in/shreyan-panda-a4a6aa254/)    
 
 💬 *Fun Fact: I love exploring emerging tech and experimenting with new coding concepts!*
 
@@ -84,7 +83,7 @@ A scalable notification system designed for optimal user experience.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pandashreyan/pandashreyan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pandashreyan/pandashreyan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pandashreyan/pandashreyan/output/github-snake.svg" />
 </picture>
 ---
 
