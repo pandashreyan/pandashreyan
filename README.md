@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Shreyan Panda</h1>
+<h1 align="center">Hi there! 👋 I'm Shreyan</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhzMG96NzBlcm95NHBwemxhemkydG1jNnE4NHY0bmFlcTl4ZDR4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" alt="Welcome GIF" width="200" />
 </p>
