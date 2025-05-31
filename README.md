@@ -42,11 +42,18 @@
 
 ## 🔧 Featured Projects
 
+
 ✨ [**Keploy**](https://github.com/pandashreyan/keploy)  
-A testing agent generation project that simplifies and enhances software testing workflows.  
+A testing agent generation project that simplifies and enhances software testing workflows. 
+
+🏛️ [**Nagrik aur Samvidhan**](https://github.com/pandashreyan/SIHAPP)
+This project helps **citizens** 👥 understand their **rights** 🛡️ and the **constitution** 📜 through interactive learning.   
 
 📣 [**Notifyzzz**](https://github.com/pandashreyan/notifyzzz)  
 A scalable notification system designed for optimal user experience.  
+
+🚧 [**Electrack**]
+A scalabble e-voting system(Progress: ▓▓▓▓▓▓░░░░ 60%)
 
 ---
 
