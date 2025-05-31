@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhzMG96NzBlcm95NHBwemxhemkydG1jNnE4NHY0bmFlcTl4ZDR4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" alt="Welcome GIF" width="200" />
 </p>
 
-<h3 align="center">🚀 Final-Year CSE Student | Full-Stack Developer | AI/ML Enthusiast | Data Explorer</h3>
+<h3 align="center">🚀 Final-Year CSE Student | Full-Stack Developer | Data Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Solving+Real-World+Problems+with+Code!;Passionate+about+AI%2C+ML+%26+Web+Dev;Let's+Build+Something+Amazing+Together!&center=true&width=500&height=45" />
