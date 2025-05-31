@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN6a2M5ZmtxMndyZ3NmZGtrbWRubGU1OXp4eXd4dHM1ZWU2ZXlsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Welcome GIF" width="400" />
+</p>
+
 <h1 align="center">Hi there! 👋 I'm Shreyan Panda</h1>
 <h3 align="center">🚀 Final-Year CSE Student | Full-Stack Developer | AI/ML Enthusiast | Data Explorer</h3>
 
