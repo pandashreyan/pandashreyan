@@ -35,10 +35,10 @@
 
 ## 🔧 Featured Projects
 
-✨ **[Keploy](https://github.com/pandashreyan/keploy)**  
+✨ [**Keploy**](https://github.com/pandashreyan/keploy)  
 A testing agent generation project that simplifies and enhances software testing workflows.  
 
-📣 **[Notifyzzz](https://github.com/pandashreyan/notifyzzz)**  
+📣 [**Notifyzzz**](https://github.com/pandashreyan/notifyzzz)  
 A scalable notification system designed for optimal user experience.  
 
 ---
@@ -53,10 +53,6 @@ A scalable notification system designed for optimal user experience.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
----
-
-
 
 ---
 
@@ -78,16 +74,14 @@ A scalable notification system designed for optimal user experience.
 
 ---
 
+## 🐍 GitHub Contribution Snake Animation
+
 <p align="center">
-  🙏 Thanks for visiting my GitHub! Let’s connect and build something amazing together! 🚀
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/pandashreyan/pandashreyan/output/github-contribution-grid-snake.svg" />
 </p>
+
 ---
 
 <p align="center">
-  🐍 GitHub Contribution Snake Animation
+  🙏 Thanks for visiting my GitHub! Let’s connect and build something amazing together! 🚀
 </p>
-
-<p align="center">
-  <img alt="GitHub Contribution Snake Animation" src="https://github.com/pandashreyan/pandashreyan/blob/output/github-contribution-grid-snake.svg?raw=true" />
-</p>
-
