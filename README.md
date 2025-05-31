@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there! 👋 I'm Shreyan Panda</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhzMG96NzBlcm95NHBwemxhemkydG1jNnE4NHY0bmFlcTl4ZDR4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" alt="Welcome GIF" width="200" />
@@ -7,27 +6,25 @@
 <h3 align="center">🚀 Final-Year CSE Student | Full-Stack Developer | AI/ML Enthusiast | Data Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Solving+Real-World+Problems+with+Code!;Passionate+about+AI%2C+ML+%26+Web+Dev;Let's+Build+Something+Amazing+Together!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Solving+Real-World+Problems+with+Code!;Passionate+about+AI%2C+ML+%26+Web+Dev;Let's+Build+Something+Amazing+Together!&center=true&width=500&height=45" />
 </p>
 
 ---
 
-
 ## 🌟 About Me
 
-🎓 Final-year Computer Science student at **KIIT University**  
-💡 Passionate about **AI/ML**, **full-stack development**, and **data-driven solutions**  
-🧠 Curious to explore and implement cutting-edge technologies  
-🌍 Open-source contributor and lifelong learner  
-  
+- 🎓 Final-year Computer Science student at **KIIT University**  
+- 💡 Passionate about **AI/ML**, **full-stack development**, and **data-driven solutions**  
+- 🧠 Curious to explore and implement cutting-edge technologies  
+- 🌍 Open-source contributor and lifelong learner  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pandashreyan&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandashreyan&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pandashreyan&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandashreyan&layout=compact&theme=radical" height="165" />
 </p>
 
 <p align="center">
@@ -35,45 +32,44 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pandashreyan&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=pandashreyan&theme=radical" height="150" />
 </p>
 
 ---
 
 ## 🔧 Featured Projects
 
-
 ✨ [**Keploy**](https://github.com/pandashreyan/keploy)  
-A testing agent generation project that simplifies and enhances software testing workflows. 
+A testing agent generation project that simplifies and enhances software testing workflows.
 
-🏛️ [**Nagrik aur Samvidhan**](https://github.com/pandashreyan/SIHAPP)
-This project helps **citizens** 👥 understand their **rights** 🛡️ and the **constitution** 📜 through interactive learning.   
+🏛️ [**Nagrik aur Samvidhan**](https://github.com/pandashreyan/SIHAPP)  
+Helping **citizens** 👥 understand their **rights** 🛡️ and the **constitution** 📜 through interactive learning.
 
 📣 [**Notifyzzz**](https://github.com/pandashreyan/notifyzzz)  
-A scalable notification system designed for optimal user experience.  
+A scalable notification system designed for optimal user experience.
 
-🚧 [**Electrack**]
-A scalabble e-voting system(Progress: ▓▓▓▓▓▓░░░░ 60%)
+🚧 [**Electrack**](https://github.com/pandashreyan/electrack)  
+A scalable e-voting system (Progress: ▓▓▓▓▓▓░░░░ 60%)
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
 ## 🤝 Connect with Me
 
-- 📧 Email: [pandashreyan7@gmail.com.com](mailto:pandashreyan7@gmail.com.com)  
-- 💼 LinkedIn: [Shreyan Panda](https://www.linkedin.com/in/shreyan-panda-a4a6aa254/)    
+- 📧 Email: [pandashreyan7@gmail.com](mailto:pandashreyan7@gmail.com)  
+- 💼 LinkedIn: [Shreyan Panda](https://www.linkedin.com/in/shreyan-panda-a4a6aa254/)  
 
 💬 *Fun Fact: I love exploring emerging tech and experimenting with new coding concepts!*
 
@@ -81,9 +77,9 @@ A scalabble e-voting system(Progress: ▓▓▓▓▓▓░░░░ 60%)
 
 ## 🌈 Additional Insights
 
-✨ Collaborating on exciting projects and contributing to open source  
-🚀 Committed to continuous learning and impactful development  
-🧩 Believer in the power of code to transform the world  
+- ✨ Collaborating on exciting projects and contributing to open source  
+- 🚀 Committed to continuous learning and impactful development  
+- 🧩 Believer in the power of code to transform the world  
 
 ---
 
@@ -94,6 +90,7 @@ A scalabble e-voting system(Progress: ▓▓▓▓▓▓░░░░ 60%)
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pandashreyan/pandashreyan/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/pandashreyan/pandashreyan/output/github-snake.svg" />
 </picture>
+
 ---
 
 <p align="center">
