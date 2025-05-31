@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:
 
+permissions:
+  contents: write  # ✅ Required to allow pushing to a branch
+
 jobs:
   build:
     name: Generate Snake SVG
