@@ -12,12 +12,24 @@
 
 ---
 
+<table>
+  <tr>
+    <td width="200" valign="top">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzMxeDJ6czB1NjMzNjBuejRoMHh3MGRnODUxZXlha2F5cnRkMDJxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" alt="Welcome GIF" width="180" />
+    </td>
+    <td valign="top">
+
 ## 🌟 About Me
 
 🎓 Final-year Computer Science student at **KIIT University**  
 💡 Passionate about **AI/ML**, **full-stack development**, and **data-driven solutions**  
 🧠 Curious to explore and implement cutting-edge technologies  
-🌍 Open-source contributor and lifelong learner  
+🌍 Open-source contributor and lifelong learner 
+
+    </td>
+  </tr>
+</table>
+  
 
 ---
 
