@@ -56,11 +56,7 @@ A scalable notification system designed for optimal user experience.
 
 ---
 
-## 🐍 Contribution Snake Animation
 
-<p align="center">
-  <img src="https://github.com/pandashreyan/pandashreyan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
 
 ---
 
@@ -85,3 +81,4 @@ A scalable notification system designed for optimal user experience.
 <p align="center">
   🙏 Thanks for visiting my GitHub! Let’s connect and build something amazing together! 🚀
 </p>
+![GitHub Contribution Snake Animation](https://github.com/pandashreyan/pandashreyan/blob/output/github-contribution-grid-snake.svg?raw=true)
