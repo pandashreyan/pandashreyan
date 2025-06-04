@@ -48,7 +48,7 @@ Helping **citizens** 👥 understand their **rights** 🛡️ and the **constitu
 📣 [**Notifyzzz**](https://github.com/pandashreyan/notifyzzz)  
 A scalable notification system designed for optimal user experience.
 
-🚧 [**Electrack**](https://github.com/pandashreyan/electrack)  
+🚧 [**BallotBox**](https://github.com/pandashreyan/electrack)  
 A scalable e-voting system (Progress: ▓▓▓▓▓▓░░░░ 60%)
 
 ---
