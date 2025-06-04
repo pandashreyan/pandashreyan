@@ -83,7 +83,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pandashreyan/pandashreyan/output/github-snake-dark.svg" />
