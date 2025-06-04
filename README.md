@@ -1,6 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Shreyan</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhzMG96NzBlcm95NHBwemxhemkydG1jNnE4NHY0bmFlcTl4ZDR4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" alt="Welcome GIF" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhzMG96NzBlcm95NHBwemxhemkydG1jNnE4NHY0bmFlcTl4ZDR4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" alt="Welcome GIF" width="220" />
 </p>
 
 <h3 align="center">🚀 Final-Year CSE Student | Full-Stack Developer | Data Explorer</h3>
@@ -15,8 +16,8 @@
 
 - 🎓 Final-year Computer Science student at **KIIT University**  
 - 💡 Passionate about **AI/ML**, **full-stack development**, and **data-driven solutions**  
-- 🧠 Curious to explore and implement cutting-edge technologies  
-- 🌍 Open-source contributor and lifelong learner  
+- 🧠 Constantly exploring and implementing cutting-edge technologies  
+- 🌍 Active open-source contributor and lifelong learner  
 
 ---
 
@@ -37,19 +38,14 @@
 
 ---
 
-## 🔧 Featured Projects
+## 🧠 Featured Projects
 
-✨ [**Keploy**](https://github.com/pandashreyan/keploy)  
-A testing agent generation project that simplifies and enhances software testing workflows.
-
-🏛️ [**Nagrik aur Samvidhan**](https://github.com/pandashreyan/SIHAPP)  
-Helping **citizens** 👥 understand their **rights** 🛡️ and the **constitution** 📜 through interactive learning.
-
-📣 [**Notifyzzz**](https://github.com/pandashreyan/notifyzzz)  
-A scalable notification system designed for optimal user experience.
-
-🚧 [**BallotBox**](https://github.com/pandashreyan/Ballotbox-app)  
-A scalable e-voting system (Progress: ▓▓▓▓▓▓░░░░ 60%)
+| Project | Description |
+|--------|-------------|
+| [⚙️ Keploy](https://github.com/pandashreyan/keploy) | A testing agent generation project that simplifies software testing. |
+| [🏛️ Nagrik aur Samvidhan](https://github.com/pandashreyan/SIHAPP) | Interactive learning platform to educate citizens on their constitutional rights. |
+| [📣 Notifyzzz](https://github.com/pandashreyan/notifyzzz) | Scalable notification system for reliable and customizable user messaging. |
+| [🗳️ BallotBox](https://github.com/pandashreyan/Ballotbox-app) | Full-stack digital election system powered by AI (Progress: 60%). |
 
 ---
 
@@ -66,24 +62,28 @@ A scalable e-voting system (Progress: ▓▓▓▓▓▓░░░░ 60%)
 
 ---
 
+## 🧩 Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-3-skyblue?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Firebase-SDK_v11-orange?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-6-green?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Genkit_AI-v1-brightgreen?style=for-the-badge&logo=google-cloud" />
+</p>
+
+---
+
 ## 🤝 Connect with Me
 
 - 📧 Email: [pandashreyan7@gmail.com](mailto:pandashreyan7@gmail.com)  
 - 💼 LinkedIn: [Shreyan Panda](https://www.linkedin.com/in/shreyan-panda-a4a6aa254/)  
 
-💬 *Fun Fact: I love exploring emerging tech and experimenting with new coding concepts!*
+💬 *Fun Fact: I enjoy breaking down complex problems and building things that make life easier.*
 
 ---
 
-## 🌈 Additional Insights
-
-- ✨ Collaborating on exciting projects and contributing to open source  
-- 🚀 Committed to continuous learning and impactful development  
-- 🧩 Believer in the power of code to transform the world  
-
----
-
-## 🐍 GitHub Contribution Snake Animation
+## 🐍 GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pandashreyan/pandashreyan/output/github-snake-dark.svg" />
@@ -94,5 +94,5 @@ A scalable e-voting system (Progress: ▓▓▓▓▓▓░░░░ 60%)
 ---
 
 <p align="center">
-  🙏 Thanks for visiting my GitHub! Let’s connect and build something amazing together! 🚀
+  🙏 Thanks for stopping by! Let's connect and build something great together 🚀
 </p>
