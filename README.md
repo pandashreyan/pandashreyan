@@ -24,17 +24,13 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pandashreyan&show_icons=true&theme=radical&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/pandashreyan">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pandashreyan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+</a>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandashreyan&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pandashreyan&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=6"/>
+<a href="https://github.com/pandashreyan">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandashreyan&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" />
+</a>
 
 </div>
 
@@ -42,10 +38,21 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=pandashreyan&theme=radical&hide_border=true&border_radius=12" height="180"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=pandashreyan&theme=radical&hide_border=true&cache_seconds=1800" />
 
 </div>
 
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=pandashreyan&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience,MultiLanguage" />
+
+</div>
+
+---
 ---
 
 ## 🚀 Contribution Graph
