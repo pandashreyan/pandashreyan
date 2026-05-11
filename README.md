@@ -20,7 +20,65 @@
 - 🌍 Active open-source contributor and lifelong learner  
 
 ---
+## 📊 GitHub Analytics
 
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pandashreyan&show_icons=true&theme=radical&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandashreyan&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pandashreyan&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=6"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=pandashreyan&theme=radical&hide_border=true&border_radius=12" height="180"/>
+
+</div>
+
+---
+
+## 🚀 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pandashreyan&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## ⚡ Tech Vibes
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;React+%7C+Next.js+%7C+Firebase;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
+
+</div>
+
+---
+
+## 🌟 Profile Views & Followers
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pandashreyan&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/pandashreyan?style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/stars/pandashreyan?style=for-the-badge&color=yellow"/>
+
+</div>
 ## 📈 GitHub Stats
 
 <p align="center">
