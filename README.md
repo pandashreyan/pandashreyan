@@ -79,20 +79,7 @@
 <img src="https://img.shields.io/github/stars/pandashreyan?style=for-the-badge&color=yellow"/>
 
 </div>
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pandashreyan&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandashreyan&layout=compact&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pandashreyan&theme=dracula&no-frame=true&margin-w=15&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pandashreyan&theme=radical" height="150" />
-</p>
 
 ---
 
